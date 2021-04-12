@@ -1,0 +1,4 @@
+#Mon Apr 12 15:46:06 EDT 2021
+base.0=/Users/jackslattery/Development/Projects/sexyslider/example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
